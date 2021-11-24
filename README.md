@@ -15,10 +15,11 @@ Class today you start the great project of our time, your first of many of cours
 
 1. Be built with HTML, CSS , and Javascript.
 2. Use Axios to retrieve data from an external source, and render such data into the DOM.
-3. Use flexbox, a plus would be to use Bootstrap, or Ant Design, or Material UI, or Tailwind CSS etc… but not a must.
+3. Use flexbox, or Grid, No Bootstrap (You can use other CSS frameworks).
 4. Implement responsive design on 3 screen sizes, desktop, tablet and mobile using media queries.
 5. Host on either Netlify or Surge.
 6. If your API requires the use of an API Key, an ENV file is required.
+7. In regards to the API, the project must show at least 3 different API uses/endpoints,  for example: Giphy: Search, Trending, and Random Gif's. 
    <br>
 
 ## Additional Requirements (Procedural)
@@ -33,9 +34,9 @@ Class today you start the great project of our time, your first of many of cours
 - Always read the documentation for the API, as that cannot be stressed enough.
   <br>
 
-* Now as I will furthermore explain below, you will have to pitch me your project idea before you can work on it.
+* Now as I will furthermore explain below, you will have to pitch me your project idea before you can work on it. The proposal requirements are below
 
-## The API you choose, has to work.
+## The API you choose, has to work. 
 
 - You have to demonstrate to me, using Postman that data can be retrieved from the API. Your project will not get approved if the API you choose does not function.
 
@@ -49,7 +50,10 @@ Creating a wireframe will give you a road map to which gives you a structural vi
 
 In the real world, developers will spend time planning how their web app will come out before they start. Consider this the start of a required habit.
 
+
+# You will need this for your proposal 
 ## Now your Read.me must contain:
+
 
 1. Title: working title for your app (Have some fun with this).
 2. Description: a paragraph summarizing the features, functions and goals for the app.
